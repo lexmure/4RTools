@@ -793,4 +793,10 @@
     "hpAddress": "010DCE10",
     "nameAddress": "010DF5D8"
   }
+   {
+    "name": "Ragnarok",
+    "description": "Raglatam",
+    "hpAddress": "010DCE10",
+    "nameAddress": "0108A190"
+  }
 ]
